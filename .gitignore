@@ -1,0 +1,8 @@
+# node modules
+/node_modules
+
+# downloads 
+/cypress/downloads
+
+# cypress.env.json
+cypress.env.json
