@@ -31,6 +31,19 @@ Cypress enables you to write all types of tests:
 - Unit tests
 - Cypress can test anything that runs in a browser.
 
+## How to setup or install cypress end to end testing
+
+_Disregard this if you already installed a node on your devices_
+
+Must installed a node in your devices from https://nodejs.org/en/download
+
+### Steps:
+
+- Open your terminal/command prompt
+- Create a directory
+- Install the cypress using `npm install cypress --save-dev`
+- Run your cypress example using npx cypress open
+
 ## Environment variables
 
 Create a cypress.env.json file in the root directory of the projects
